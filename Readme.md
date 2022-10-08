@@ -8,4 +8,6 @@ This repository contains the basic of deep learning. The content is based on the
 
 ### Content
 
-> Coming soon ...
+- [x] Practice 1: Tensor and its operations
+- [x] Practice 2: Linear Algebra
+- [x] Practice 3: Probability and Information Theory
