@@ -66,6 +66,5 @@ def main():
     HISTOGRAM_EQUALIZED_IMAGE = exposure.equalize_hist(IMAGE)
     plot_color_image(HISTOGRAM_EQUALIZED_IMAGE, 'Histogram Equalized Image')
 
-
 if __name__ == '__main__':
     main()
